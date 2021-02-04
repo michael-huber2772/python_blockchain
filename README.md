@@ -8,7 +8,8 @@ I have changed the code from the tutorial as I see fit. I have also added doc
 strings to the code for my own reference and documentation.
 
 
-Once I have completed the above tutorial I am going to take a look at using this
-tutorial.
+Once I have completed the above tutorial here is another tutorial to check out
+and a linkt to some more resources.
 
 + [Understand Blockchains by Building Your Own](https://medium.com/better-programming/understand-blockchains-by-building-your-own-in-python-676dc38816fa)
++ [Blockchain Resources](https://www.tutorialspoint.com/python_blockchain/python_blockchain_useful_resources.htm)
